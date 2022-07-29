@@ -1,0 +1,23 @@
+{
+  "name": "healthapp",
+  "version": "1.0.0",
+  "description": "this is application is check the health of person",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amtaneja/health-checkup.git"
+  },
+  "author": "aman taneja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amtaneja/health-checkup/issues"
+  },
+  "homepage": "https://github.com/amtaneja/health-checkup#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
